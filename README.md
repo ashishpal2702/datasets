@@ -12,6 +12,8 @@
 
 [5. Darknet2020 Internet Traffic](https://www.kaggle.com/datasets/peterfriedrich1/cicdarknet2020-internet-traffic)
 
+### Healthcare
+[6. Disease Prediction](https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning?select=Training.csv)
 
 ## NLP
 [1. Netlfix Moving Rating ](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data)
