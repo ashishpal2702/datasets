@@ -5,11 +5,10 @@
 
 [2. Stock Market Dataset](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset)
 
-[3. Microsoft Malware detection](https://www.kaggle.com/c/microsoft-malware-prediction)
-
-[4. Credit Card Fraud detection](https://www.kaggle.com/datasets/shayannaveed/credit-card-fraud-detection)
+[3. Credit Card Fraud detection](https://www.kaggle.com/datasets/shayannaveed/credit-card-fraud-detection)
 
 ### Cyber Security 
+[4. Microsoft Malware detection](https://www.kaggle.com/c/microsoft-malware-prediction)
 
 [5. Darknet2020 Internet Traffic](https://www.kaggle.com/datasets/peterfriedrich1/cicdarknet2020-internet-traffic)
 
