@@ -8,3 +8,11 @@
 [3. Microsoft Malware detection](https://www.kaggle.com/c/microsoft-malware-prediction)
 
 [4. Credit Card Fraud detection](https://www.kaggle.com/datasets/shayannaveed/credit-card-fraud-detection)
+
+### Cyber Security 
+
+[5. Darknet2020 Internet Traffic](https://www.kaggle.com/datasets/peterfriedrich1/cicdarknet2020-internet-traffic)
+
+
+## NLP
+[1. Netlfix Moving Rating ](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data)
